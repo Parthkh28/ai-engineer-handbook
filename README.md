@@ -255,7 +255,6 @@ Top must follow newsletters for AI engineering:
 - [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)
 - [Latent Space](https://www.latent.space/)
 - [The Sequence](https://thesequence.substack.com/)
-- [AI Engineering by Chip Huyen](https://huyenchip.substack.com/)
 - [DataExpert.io Blog](https://blog.dataexpert.io)
 - [Sylph.ai Blog](https://blog.sylph.ai)
 
